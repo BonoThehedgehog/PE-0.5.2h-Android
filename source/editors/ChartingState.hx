@@ -1,4 +1,4 @@
-package editors;
+
 
 #if desktop
 import Discord.DiscordClient;
@@ -61,6 +61,15 @@ class ChartingState extends MusicBeatState
 		'Alt Animation',
 		'Hey!',
 		'Hurt Note',
+		'Poison Note',
+		'Static Note',
+		'halfHeal Note',
+		'smaHeal Note',
+		'Instakill Note',
+		'medHeal Note',
+		'halfBlammed Note',
+		'Blammed Note',
+		fullHeal Note',
 		'GF Sing',
 		'No Animation'
 	];
